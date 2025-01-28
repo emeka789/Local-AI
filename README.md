@@ -8,7 +8,7 @@ This guide walks you through installing an AI server hosted locally on your comp
 ```
 wsl --install
 ```
-  3. Run
+  2. Run
 ```
 sudo apt update
 ```
@@ -21,7 +21,7 @@ sudo apt upgrade -y
 ```
 curl -fsSL http://ollama.com/install.sh | sh
 ```
-  3. Install Ollama3 or other LLM
+  2. Install Ollama3 or other LLM
 ```
 ollama pull llama3
 ```
