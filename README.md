@@ -42,7 +42,7 @@ sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyring
 sudo chmod a+r /etc/apt/keyrings/docker.asc 
 ```
 
-  2. Create a a new repository with Docker's signature and update
+  2. Create a new repository with Docker's signature and update
 ```
 echo \
 "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
