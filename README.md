@@ -1,5 +1,5 @@
 # 🤖 Installing a Local AI Server w/ Ollama
-In today's digital landscape, exploring Artificial Intelligence (AI) is more accessible than ever before! Whether you're a developer looking to experiment while keeping your data private or someone curious about using Large Language models w/o the overhead of cloud-based solutions, setting up a local AI server can prove to be very useful.
+In today's digital landscape, exploring Artificial Intelligence (AI) is more accessible than ever before! Whether you're a developer looking to experiment while keeping your data private or someone curious about using Large Language models w/o paying a premium for top cloud-based solutions, setting up a local AI server can prove to be very useful.
   
 This guide walks you through installing an AI server hosted locally on your computer (use w/o wifi!) using Windows Subsystem for Linux (WSL), Docker, Ollama, & WebUI.
 
